@@ -62,7 +62,7 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
         - histograms
         - scatterplots
         - learn more at:
-            - [R Graphics Cookbook](R Graphics Cookbook, 2nd edition)
+            - [R Graphics Cookbook](https://r-graphics.org/)
             - [Cookbook for R, graphics codes for book](http://www.cookbook-r.com/Graphs/)
             - [R Graph Gallery](https://r-graph-gallery.com/)
 * more with the `abalone` dataset
