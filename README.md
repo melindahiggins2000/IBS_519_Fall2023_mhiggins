@@ -21,7 +21,8 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
     - R scripts
     - packages
     - getting help 
-* R markdown intro (brief)
+* [RStudio Education](https://education.rstudio.com/)
+* [R markdown intro (brief)](https://rmarkdown.rstudio.com/) 
 * Importing & viewing data
     - [abalone dataset](https://archive.ics.uci.edu/ml/datasets/abalone)
     - `str()`, `dim()`, `head()`, `tail()` functions
@@ -38,12 +39,13 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
     - three R scripts
     - and simple Rmarkdown report to get started
     - stored on [Github](https://github.com/melindahiggins2000/IBS_519_wk1_lecture02_mhiggins)
+* Optional: [Intro to R and RStudio](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module01.html#1)
+* [Getting Started with Packages](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module02.html#1)
 * Optional: [Introduction to R Objects](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_IntroductionToRObjects_mkh.html#1)
 * Optional: [R Objects - Brief Overview of Factors](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_RObjectsFactors_mkh.html#1)
-* Optional: [Intro to ggplot2 (i.e. week 2)](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_IntroductionToGgplot2_mkh.html#1)
+* Optional: [Intro to ggplot2 (i.e. week 2)](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module03.html#1)
 * Optional: 
-    - [Intro to Data Wrangling with dplyr (i.e. week 3)](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_IntroductionToDataWrangling_mkh.html#1)
-    - [Another Intro to dplyr](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module04.html#1)
+    - [Intro to Data Wrangling with dplyr (i.e. week 3)](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module04.html#1)
 
 -----
 
